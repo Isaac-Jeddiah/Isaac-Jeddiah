@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Isaac-Jeddiah
 - 👀 I’m interested in fullstack programming
-- 🌱 I’m currently learning Backend languages
+- 🌱 I’m currently learning NodeJS and ReactJS
 - 💞️ I’m looking to collaborate on artificial intelligence
+- I'm good in DSA and Competetive Programming
+- Problem solver
 
 
 <!---
