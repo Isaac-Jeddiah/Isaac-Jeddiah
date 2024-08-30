@@ -2,6 +2,7 @@
 - 👀 I’m interested in fullstack programming
 - 🌱 I’m currently learning NodeJS and ReactJS
 - 💞️ I’m looking to collaborate on artificial intelligence
+- I have interest in data analysis
 - I'm good in DSA and Competetive Programming
 - Problem solver
 
