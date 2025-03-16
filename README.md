@@ -43,9 +43,13 @@ Motivated developer with a proven track record in solving complex problems and e
 
 ## 🏆 Accomplishments
 - **LeetCode**: 400+ problems solved ![LeetCode Badge](https://img.shields.io/badge/Solved%20Problems-400-brightgreen)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Zack_Jedi?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Zack_Jedi?ext=heatmap)
+
 - **SkillRack**: 800+ problems solved ![SkillRack Badge](https://img.shields.io/badge/Solved%20Problems-800-brightgreen)
 - **IITB FOSSEE MAPATHON (2023)**: Recognized as a Notable Participant by developing an innovative mapping solution engaging over 300 colleges.
-![Leetcode Stats](https://leetcard.jacoblin.cool/Zack_Jedi)
+
 ## 📂 Projects
 ### Geolocation Attendance App
 *September 2024*  
