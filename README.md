@@ -10,10 +10,6 @@
 ## 🎯 Objective
 Motivated developer with a proven track record in solving complex problems and excelling in competitive programming. I leverage my technical expertise to deliver robust software solutions and collaborate with cross-functional teams to launch high-impact projects.
 
-## 💼 Experience
-### Full Stack Developer Intern, AK InfoPark, Kanyakumari
-*June 2024 - July 2024*  
-- Developed foundational skills in full-stack programming, mastering essential web technologies like HTML, CSS, and React.js within a condensed internship timeframe.
 
 ## 🎓 Education
 **St. Joseph’s College of Engineering, Chennai**  
